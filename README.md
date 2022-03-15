@@ -1,2 +1,3 @@
-# fluffy_data_visualization
-Sample data visualization
+# Data Visualization
+
+Sample data visualization - tryout
