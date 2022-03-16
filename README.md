@@ -2,6 +2,8 @@
 
 Sample data visualization - Matplotlib Vs Seaborn
 
+[Python Data Visualization](https://www.youtube.com/watch?v=Nt84_TzRkbo)
+
 * Types of plots:
   - Bar chart
   - Scatter Plot
@@ -13,11 +15,16 @@ Sample data visualization - Matplotlib Vs Seaborn
   * matplotlib
     - [matplotlib.pyplot](https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.html)
     - [Pyplot tutorial](https://matplotlib.org/3.5.1/tutorials/introductory/pyplot.html) 
+    - [matplotlib](https://matplotlib.org/)
   * seaborn
-    - []()
+    - [API reference &#8212; seaborn 0.11.2 documentation](https://seaborn.pydata.org/api.html)
+  - bokeh
+    - [Bokeh](https://docs.bokeh.org/en/latest/)
+    - [Bokeh 2.4.2 Documentation](https://docs.bokeh.org/en/latest/docs/reference/document.html)
 * Kaggle:
-  - [mtcars](https://www.kaggle.com/ruiromanini/mtcars)
+  - [mtcars | Kaggle](https://www.kaggle.com/ruiromanini/mtcars)
   - [mtcar dataset schema explanation](https://rpubs.com/neros/61800)
+  - [Among Us Dataset | Kaggle](https://www.kaggle.com/ruchi798/among-us-dataset)
 
 | ID  | Label | Description             | Comments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --- | ----- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
